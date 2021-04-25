@@ -1,0 +1,9 @@
+.Imageholder {
+  background-color: #999;
+  text-align: center;
+  display: inline-block;
+  flex:1;
+  width:100%;
+  padding-top: 20.25%;
+
+}
